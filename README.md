@@ -18,8 +18,12 @@ This project focuses on replicating the performance of a **black-box portfolio**
 - **Turnover control** via regularization to minimize rebalancing frequency and trading costs.
 
 ## Files
+Black-Box-Portfolio-Replication-/
+
 ├── Dataset_PortfolioReplicaStrategy.xlsx # Historical weekly returns for target and factors
+
 ├── Portfolio_Replica.ipynb # Baseline portfolio replication via regression --> Enhanced model with regularization and constraints
+
 ├── README.md # Project summary and documentation
 
 ## Dataset
